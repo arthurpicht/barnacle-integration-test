@@ -2,7 +2,8 @@
 .gradle/*
 .idea/
 build/*
+db/
 gradle/
 gradlew
 gradlew.bat
-# src/main/java-gen
+src/main/java-gen

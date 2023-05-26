@@ -1,4 +1,4 @@
-package de.arthurpicht.barnacleIntegrationTest.tg_01.tc_01.persistence.vof;
+package de.arthurpicht.barnacleIntegrationTest.tg_01.tc_02.persistence.vof;
 
 import de.arthurpicht.barnacle.annotations.Annotations.Barnacle;
 import de.arthurpicht.barnacle.annotations.Annotations.ColumnName;

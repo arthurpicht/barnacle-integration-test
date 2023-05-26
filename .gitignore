@@ -2,6 +2,7 @@
 .gradle/*
 .idea/
 build/*
+db/
 gradle/
 gradlew
 gradlew.bat
